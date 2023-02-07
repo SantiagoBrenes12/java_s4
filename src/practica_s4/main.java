@@ -18,11 +18,11 @@ public class main {
     public static void main(String[] args) {
         JavaStructures_Clase Estructuras = new JavaStructures_Clase();
         
-        JOptionPane.showMessageDialog(null, "Estructura Switch");
+        /*JOptionPane.showMessageDialog(null, "Estructura Switch");
         Estructuras.funcSwitch();
         
         JOptionPane.showMessageDialog(null, "Estructura For");
-        Estructuras.funcFor();
+        Estructuras.funcFor();*/
         
         JOptionPane.showMessageDialog(null, "Estructura While");
         Estructuras.funcWhile();    
